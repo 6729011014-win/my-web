@@ -1,0 +1,27 @@
+h2{
+    color:rgb(8, 116, 218);
+}
+.container{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bule{
+    color: blue;
+}
+
+a{
+    color:cornflowerblue
+}
+
+a:hover{
+    color:darkgreen;
+    font-size: 20px;
+}
+
+.img{
+    width: 200px;
+    border-radius: 20px;
+}
