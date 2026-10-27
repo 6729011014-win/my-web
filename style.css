@@ -1,12 +1,6 @@
 h2{
     color:rgb(8, 116, 218);
 }
-.container{
-    display: flex;
-    gap: 60px;
-    justify-content: center;
-    align-items: center;
-}
 
 .bule{
     color: blue;
